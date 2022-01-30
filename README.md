@@ -1,1 +1,1 @@
-# Pure-CSS-Loader-and-Spinner
+# Pure-CSS-Loader
